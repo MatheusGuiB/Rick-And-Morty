@@ -7,6 +7,7 @@ const SectionHero = () => {
       <div className="img-contain">
         <div className="img">
           <img src={rick} alt="" />
+          <h1>Rick And Morty Api</h1>
         </div>
       </div>
     </StyledSectionHero>

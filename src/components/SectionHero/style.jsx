@@ -21,4 +21,9 @@ export const StyledSectionHero = styled.div`
     width: 400px;
     background-repeat: no-repeat;
   }
+  h1 {
+    font-size: 35px;
+    position: absolute;
+    color: white;
+  }
 `
